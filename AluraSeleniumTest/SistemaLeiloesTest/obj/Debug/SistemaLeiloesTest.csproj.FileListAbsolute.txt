@@ -1,0 +1,40 @@
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.abstractions.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.runner.reporters.net452.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.runner.utility.net452.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\SistemaLeiloesTest.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\SistemaLeiloesTest.pdb
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\WebDriver.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\WebDriver.Support.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.assert.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.core.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.execution.desktop.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\WebDriver.xml
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\WebDriver.Support.xml
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.assert.xml
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.core.xml
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.execution.desktop.xml
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\obj\Debug\SistemaLeiloesTest.csprojResolveAssemblyReference.cache
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\obj\Debug\SistemaLeiloesTest.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\SistemaLeiloesTest\obj\Debug\SistemaLeiloesTest.pdb
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.abstractions.dll
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\SistemaLeiloesTest.dll
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\SistemaLeiloesTest.pdb
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\WebDriver.dll
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\WebDriver.Support.dll
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.assert.dll
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.core.dll
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.execution.desktop.dll
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\WebDriver.xml
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\WebDriver.Support.xml
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.assert.xml
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.core.xml
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\bin\Debug\xunit.execution.desktop.xml
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\obj\Debug\SistemaLeiloesTest.csprojAssemblyReference.cache
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\obj\Debug\SistemaLeiloesTest.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\obj\Debug\SistemaLeiloesTest.csproj.CopyComplete
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\obj\Debug\SistemaLeiloesTest.dll
+C:\Users\mathe\Documents\ALURA\SELENIUM\AluraSeleniumTest\SistemaLeiloesTest\obj\Debug\SistemaLeiloesTest.pdb

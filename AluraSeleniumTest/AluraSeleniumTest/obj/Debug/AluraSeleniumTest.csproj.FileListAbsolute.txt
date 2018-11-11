@@ -1,0 +1,10 @@
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\AluraSeleniumTest\bin\Debug\AluraSeleniumTest.pdb
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\AluraSeleniumTest\bin\Debug\WebDriver.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\AluraSeleniumTest\bin\Debug\WebDriver.Support.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\AluraSeleniumTest\bin\Debug\WebDriver.xml
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\AluraSeleniumTest\bin\Debug\WebDriver.Support.xml
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\AluraSeleniumTest\obj\Debug\AluraSeleniumTest.csprojResolveAssemblyReference.cache
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\AluraSeleniumTest\obj\Debug\AluraSeleniumTest.pdb
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\AluraSeleniumTest\bin\Debug\AluraSeleniumTest.dll.config
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\AluraSeleniumTest\bin\Debug\AluraSeleniumTest.dll
+c:\users\matheus\documents\visual studio 2017\Projects\AluraSeleniumTest\AluraSeleniumTest\obj\Debug\AluraSeleniumTest.dll
